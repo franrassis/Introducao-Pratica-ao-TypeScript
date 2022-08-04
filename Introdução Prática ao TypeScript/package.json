@@ -1,0 +1,27 @@
+{
+    "dependencies": {
+      "lite-server": "^2.6.1",
+      "typescript": "^4.3.5"
+    },
+    "name": "aulas",
+    "description": "Aprendendo o que é Typescript",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "lite-server",
+      "watch": "tsc --watch"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lucasrmagalhaes/introducao-ts.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/franrassis/Introducao-Pratica-ao-TypeScript.git"
+    },
+    "homepage": "https://github.com/franrassis/Introducao-Pratica-ao-TypeScript.git"
+  }
